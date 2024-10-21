@@ -38,3 +38,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Зайти в ТестНет
+[Инструкция](https://answers.ton.org/question/1561527682871595008/how-do-you-change-ton-keeper-to-testnet)
+
+## Пополнить кошелек
+
+Используя этот бот [@testgiver_ton_bot](https://t.me/testgiver_ton_bot) вы можете пополнить баланс. В течение час вы можете получить 2 ТОН.
